@@ -32,7 +32,6 @@ A Key Performance Indicator (KPI) is a measurable value that demonstrates how ef
 8. How effective has gender outreach been in increasing female ridership over the timespan?
 9. How does the average trip duration change by age?
 10. What is the average distance in miles that a bike is ridden?
-11. Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence.
 ## Screenshots
 1. Age and Gender Distribution
 ![App Screenshot](https://snipboard.io/o2Swbx.jpg)
