@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue?resource=download
 
 2. Exploratory Data Analysis for this Dataset
 
-![App Screenshot](https://snipboard.io/tfDCBX.jpg)
+![App Screenshot](https://snipboard.io/c7CDAa.jpg)
 
 3. Build a simple Linear Regression model between two Variables - "lead_time" and "adr"
 ![App Screenshot](https://snipboard.io/bZYd7U.jpg)
@@ -28,4 +28,5 @@ https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue?resource=download
 4. Using  Python scripts for visualization in Power BI
 ## Dashboard view
 Final Dashboard
-![App Screenshot](https://snipboard.io/2lNTn0.jpg)
+
+![App Screenshot](https://snipboard.io/PfCFMh.jpg)
