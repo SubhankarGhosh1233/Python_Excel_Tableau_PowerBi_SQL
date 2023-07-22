@@ -28,4 +28,5 @@ https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue?resource=download
 4. Using  Python scripts for visualization in Power BI
 ## Dashboard view
 Final Dashboard
+
 ![App Screenshot](https://snipboard.io/PfCFMh.jpg)
