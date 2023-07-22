@@ -10,6 +10,7 @@ Your task in this Project is to analyze the data to understand the relationship 
 ## Data Link:- 
 Github:- 
 https://github.com/SubhankarGhosh1233/Python_Excel_Tableau_PowerBi_SQL/tree/main/Data
+
 Kaggle:- 
 https://www.kaggle.com/datasets/govindkrishnadas/hotel-revenue?resource=download
 
