@@ -7,7 +7,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 
 # REQUIREMENTS
-Your task in this Project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report. You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods. The following are some questions you may wish to tackle, especially if you are working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
+Our task in this Project is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report. I may work with a timespan of my choosing. Optionally, I may merge multiple datasets from different periods. The following are some questions I may wish to tackle, especially if I am working with merged datasets. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 ### Task needs to be achieved:
 1. Acquire the data, dump the data into some of the databases (SQL, MongoDB, Casandra local or cloud version)
 2. Connect with the business user and try to get the understanding of the data attribute 
