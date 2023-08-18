@@ -9,7 +9,7 @@ The purpose of this project is to build a dashboard to understand the whole data
 
 * We need to analyze with different charts 
 
-* We need to use interctive tools like slicers in this dashboard so that we can selectively analyze causes of casualties.
+* We need to use interactive tools like slicers in this dashboard so that we can selectively analyze causes of casualties.
 
 ## Dataset:
 Data Link:- https://docs.google.com/spreadsheets/d/1yxpNuYkofwzh8oiJLhlvNX4IyAk7RJuw/edit?usp=drive_link
