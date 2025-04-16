@@ -6,7 +6,7 @@ Revenue management is more crucial than ever to run a successful and profitable 
 # Task
 A report to understand the relationship between Average Daily Rate(ADR) for hotels and the Lead Time Before Booking. Our manager wants to make a Power BI Dashboard for the same.
 # REQUIREMENTS
-This Project is to analyze the data to understand the relationship between Average Daily Rate(ADR) for hotels and the Lead Time Before Booking using Python. Then we have to make a Power BI Dashboard for the same visualization. 
+This Project is to analyze the data to understand the relationship between Average Daily Rate(ADR) for hotels and the Lead Time Before Booking using Python. A Power BI Dashboard for this same visualization. 
 ## Data Link:- 
 Github:- 
 https://github.com/SubhankarGhosh1233/Python_Excel_Tableau_PowerBi_SQL/tree/main/Data
